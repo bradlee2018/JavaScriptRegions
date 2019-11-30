@@ -7,12 +7,12 @@ namespace JavaScriptRegions
 {
     static class Vsix
     {
-        public const string Id = "74208c70-24ae-4899-ac91-658f11f0e65b";
+        public const string Id = "E0DA9B07-0E88-400F-A4B6-4F82111B6D85";
         public const string Name = "JavaScript Regions";
         public const string Description = @"Adds support for region comments in JavaScript and TypeScript files";
         public const string Language = "en-US";
-        public const string Version = "1.1";
-        public const string Author = "Mads Kristensen";
+        public const string Version = "1.0";
+        public const string Author = "Brad Lee";
         public const string Tags = "javascript, typescript, regions, comment";
     }
 }
